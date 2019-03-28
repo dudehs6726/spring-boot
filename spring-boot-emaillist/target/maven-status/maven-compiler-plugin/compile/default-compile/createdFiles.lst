@@ -1,0 +1,4 @@
+com\douzone\emaillist\controller\EmailListController.class
+com\douzone\emaillist\vo\EmaillistVo.class
+com\douzone\emaillist\dao\EmaillistDao.class
+com\douzone\emaillist\BootApplication.class
