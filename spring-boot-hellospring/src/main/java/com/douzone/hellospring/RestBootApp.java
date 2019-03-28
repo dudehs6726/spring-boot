@@ -33,10 +33,10 @@ public class RestBootApp {
 			return "Hello Yahoo!!!";
 		}
 	}
-	
+	/*
 	public static void main(String[] args) {
 		SpringApplication.run(BootApplication.class, args);
 
 	}
-
+	*/
 }
